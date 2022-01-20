@@ -4,11 +4,11 @@ body {
 
 
 div {
-    width:auto
+    text-align: center
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 30px;
     font-family: Arial;
     font-weight: bold;
     text-align: center;
@@ -16,38 +16,44 @@ h1 {
 }
 
 img {
-    height: 40
+    height: 200px;
 }
 
 h2 {
-    font-size: 30px;
+    font-size: 20px;
     font-family: arial;
     font-weight: bold;
     text-align: center;
     color: black;
+    margin: 20px;
+    padding: 20px;
 }
 
 p {
-    font-size: 10px;
+    font-size: 15px;
     font-family: arial;
     text-align: center;
     color: black;
+    margin: 15px auto 30px auto;
 }
 
 a {
     font-family: tahoma;
     font-size: 15px;
     border: 10px;
-    background-color: greenyellow;
+    background-color: green;
     border-radius: 30px;
-    color:white;
+    color: rgb(255, 255, 255);
+    padding: 10px 30px;
 }
 
 h3 {
     font-family: arial;
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
     color: black;
+    margin: 20px;
+    padding: 20px;
 }
 
 span {
