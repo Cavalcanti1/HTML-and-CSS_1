@@ -1,1 +1,55 @@
-{}
+body {
+    margin: 0;
+}
+
+
+div {
+    width:auto
+}
+
+h1 {
+    font-size: 50px;
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+
+img {
+    height: 60
+}
+
+h2 {
+    font-size: 30px;
+    font-family: arial;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+
+p {
+    font-size: 10px;
+    font-family: arial;
+    text-align: center;
+    color: black;
+}
+
+a {
+    font-family: tahoma;
+    font-size: 15px;
+    border: 10px;
+    background-color: greenyellow;
+    border-radius: 30px;
+    color:white;
+}
+
+h3 {
+    font-family: arial;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
+span {
+    font-weight:bold;
+}
